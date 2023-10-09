@@ -65,3 +65,8 @@ button {
     border-radius: 999px;
     background: #ADA7FF;
 }
+
+div {
+    display: flex;
+    justify-content: center;
+}
